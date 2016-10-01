@@ -1,5 +1,5 @@
 .img-circle{
-  border-radius: 50%
+  border-radius: 50%;
 }
 
 p {
@@ -8,6 +8,11 @@ p {
 
 .button-collapse {
   color: #26a69a;
+}
+
+.parallax {
+  background-color: rgba(0,0,0,.5);
+  -webkit-filter: brightness(50%);
 }
 
 .parallax-container {
