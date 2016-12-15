@@ -2,6 +2,10 @@
   border-radius: 50%;
 }
 
+.container {
+  width: 35%;
+}
+
 p {
   line-height: 2rem;
 }
